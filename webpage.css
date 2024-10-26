@@ -234,7 +234,7 @@ footer {
   color: rgb(231, 222, 222);
   padding: 20px 0;
   text-align: center; /*TO MAKE TEXTS AT CENTER*/
-  margin: 100px;
+  margin:80px;
   padding: 0px;
   padding: 40px 10px;
   border-radius: 20px; /*TO MAKE BORDER MORE VISIBLE*/
@@ -384,7 +384,7 @@ iframe { /*SO IT WOULD BE SMALLER AND MAGING FIT IN SMALLER SIZE OF SCREEN*/
 
   /* ====================================CONTACT/FOOTER==================================== */
   footer{
-  width: 220px;
+  width: 280px;
   }
   .contact-details, .social-media { 
     margin: 15px 0;
